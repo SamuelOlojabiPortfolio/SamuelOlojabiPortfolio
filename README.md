@@ -12,11 +12,11 @@ I enjoy working with data to identify trends, analyze business performance, buil
 
 **Data Analytics & BI**
 
-`Power BI` · `SQL` · `Excel` · `Python`
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Core Skills**
 
-`Data Cleaning` · `Data Transformation` · `Data Analysis` · `DAX` · `Data Visualization` · `Dashboard Development` · `KPI Analysis` · `Business Intelligence` · `Data Storytelling`
+Data Cleaning` · `Data Transformation` · `Data Analysis` · `DAX` · `Data Visualization` · `Dashboard Development` · `KPI Analysis` · `Business Intelligence` · `Data Storytelling`
 
 ---
 
