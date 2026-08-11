@@ -16,7 +16,15 @@ I enjoy working with data to identify trends, analyze business performance, buil
 
 **Core Skills**
 
-- Data Cleaning - Data Transformation - Data Analysis - DAX - Data Visualization - Dashboard Development - KPI Analysis - Business Intelligence - Data Storytelling
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- DAX
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Business Intelligence
+- Data Storytelling
 
 ---
 
