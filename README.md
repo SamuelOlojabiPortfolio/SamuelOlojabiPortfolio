@@ -53,8 +53,8 @@ A Power BI project analyzing **10,000 retail transactions** to understand sales 
 I'm building practical projects focused on:
 
 - 📊 Business Intelligence & Power BI
-- 🗄️ SQL Data Analysis
 - 📈 Excel Analytics
+- 🗄️ SQL Data Analysis
 - 🐍 Python for Data Analysis
 - 💼 Business & Financial Analytics
 
@@ -63,6 +63,7 @@ I'm building practical projects focused on:
 ## 🎯 Currently Developing
 
 - Advanced Power BI & DAX
+- Advance Excel
 - SQL for Data Analytics
 - Python for Data Analysis
 - Data Modeling
