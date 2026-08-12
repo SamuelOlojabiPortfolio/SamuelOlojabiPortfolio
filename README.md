@@ -59,6 +59,9 @@ A Power BI project analyzing **10,000 retail transactions** to understand sales 
 🔗 **[View Project →](https://github.com/SamuelOlojabiPortfolio/naijamart-financial-performance-analysis)**
 
 
+
+
+
 ### 👥 HR Analytics Dashboard
 
 **Power BI | DAX | Power Query**
