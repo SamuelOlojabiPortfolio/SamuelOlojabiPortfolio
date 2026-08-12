@@ -8,6 +8,18 @@ I enjoy working with data to identify trends, analyze business performance, buil
 
 ---
 
+## 📈 What I Do
+
+- Transform raw data into analysis-ready datasets
+- Develop interactive Power BI dashboards
+- Create KPIs and analytical measures using DAX
+- Analyze sales, financial, HR and business performance
+- Identify trends and patterns in data
+- Communicate insights through clear visualizations
+- Support data-driven decision-making
+
+---
+
 ## 🛠️ Tools & Technologies
 
 **Data Analytics & BI**
@@ -45,6 +57,27 @@ A Power BI project analyzing **10,000 retail transactions** to understand sales 
 - Salesperson performance
 
 🔗 **[View Project →](https://github.com/SamuelOlojabiPortfolio/naijamart-financial-performance-analysis)**
+
+
+### 👥 HR Analytics Dashboard
+
+**Power BI | DAX | Power Query**
+
+An HR analytics project analyzing approximately **2,845 employee records** to understand workforce composition, employee performance, engagement, satisfaction, and training.
+
+**Key areas analyzed:**
+
+- Workforce demographics
+- Employee status and distribution
+- Department & division analysis
+- Employee performance
+- Employee engagement & satisfaction
+- Performance score distribution
+- Training programs & outcomes
+- Training costs & duration
+
+🔗 **[View Project →](https://github.com/SamuelOlojabiPortfolio/hr-analytics-full-insight)**
+
 
 ---
 
