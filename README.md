@@ -66,7 +66,7 @@ A Power BI project analyzing **10,000 retail transactions** to understand sales 
 
 **Power BI | DAX | Power Query**
 
-An HR analytics project analyzing approximately **2,845 employee records** to understand workforce composition, employee performance, engagement, satisfaction, and training.
+An HR analytics project analyzing approximately **2,845 employee records** to understand workforce composition, employee performance, engagement, satisfaction and training.
 
 **Key areas analyzed:**
 
@@ -86,13 +86,7 @@ An HR analytics project analyzing approximately **2,845 employee records** to un
 ### 📊 Joju Sales Performance Analysis 
 **Microsoft Excel | Pivot Tables | Pivot Charts** 
 
-Analyzed **10,000 sales records** to evaluate sales and profitability across products, customer segments, regions, payment methods, and time. 
-
-**Key performance indicators:** 
-- **Total Sales:** ₦11.95M
-- **Total Profit:** ₦4.19M
-- **Profit Margin:** 35%
-- **Total Orders:** 10,000
+Analyzed **10,000 sales records** to evaluate sales and profitability across products, customer segments, regions, payment methods and time. 
 
 **Key areas analyzed:** 
 - Product category profitability
@@ -131,7 +125,7 @@ I'm building practical projects focused on:
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with **data professionals, analysts, recruiters, and organizations** interested in data-driven solutions and business intelligence.
+I'm open to connecting with **data professionals, analysts, recruiters and organizations** interested in data-driven solutions and business intelligence.
 
 📌 **GitHub:** [SamuelOlojabiPortfolio](https://github.com/SamuelOlojabiPortfolio)
 
