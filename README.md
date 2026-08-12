@@ -81,6 +81,27 @@ An HR analytics project analyzing approximately **2,845 employee records** to un
 
 🔗 **[View Project →](https://github.com/SamuelOlojabiPortfolio/hr-analytics-full-insight)**
 
+--- 
+
+### 📊 Joju Sales Performance Analysis 
+**Microsoft Excel | Pivot Tables | Pivot Charts** 
+
+Analyzed **10,000 sales records** to evaluate sales and profitability across products, customer segments, regions, payment methods, and time. 
+
+**Key performance indicators:** 
+- **Total Sales:** ₦11.95M
+- **Total Profit:** ₦4.19M
+- **Profit Margin:** 35%
+- **Total Orders:** 10,000
+
+**Key areas analyzed:** 
+- Product category profitability
+- Customer segment performance
+- Regional sales performance
+- Payment method usage
+- Monthly sales trends
+
+🔗 [View Project →](https://github.com/SamuelOlojabiPortfolio/joju-sales-performance-analysis)
 
 ---
 
